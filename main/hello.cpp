@@ -3,8 +3,8 @@
 using namespace std;
 
 int main(void) {
-  cout << "Hello, World\n";
-  cout << "Hello, Jenkins\n";
-  cout << "I have successfully built and run\n";
+  cout << "Hello, I'm PES1UG20CS423\n";
+  cout << "Hello, SIDDARTH M.P\n";
+  cout << "I'm running CC (Jenkins) lab\n";
   return 0;
 }
